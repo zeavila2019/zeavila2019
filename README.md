@@ -8,6 +8,8 @@ My name is jose felipe,I'm from Brazil 🇧🇷 I'm system developer
  
  💻 Node,ReactJS,ReactNative,Python,C#,Mysql
  
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/jose-felipe-avila-3967bb12b/)
+ 
  
  
  
