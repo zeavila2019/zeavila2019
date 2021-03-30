@@ -1,6 +1,6 @@
 ### Hey! Welcome  to my profile 👊!! 
 
-**It is by doing that one learns to do what one must learn to do 💡
+**The joy we have in thinking and learning makes us think and learn even more 💡
                                                         (Aristotle)**
 							
 My name is jose felipe,I'm from Brazil 🇧🇷 I'm system developer web and mobile applications.
