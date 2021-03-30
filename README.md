@@ -3,14 +3,22 @@
 **It is by doing that one learns to do what one must learn to do 💡
                                                         (Aristotle)**
 							
-My name is jose felipe,I'm from Brazil 🇧🇷 I'm system developer
+My name is jose felipe,I'm from Brazil 🇧🇷 I'm system developer web and mobile applications.
+
+
 
 							
  [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/zeavila2019)](https://github.com/zeavila2019)
  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jose-felipe-avila-3967bb12b/)](https://www.linkedin.com/in/jose-felipe-avila-3967bb12b/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:josedesenvolvimento2019@gmail.com)](mailto:josedesenvolvimento2019@gmail.com)
 
- 😄 I really like to learn																												
+
+ 😄 I really like to lear
+ 
+ 
+ 
+ 
+ 
 
 ![react-native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
