@@ -1,7 +1,4 @@
 ### Hey! Welcome  to my profile 👊!! 
-
-**The joy we have in thinking and learning makes us think and learn even more 💡
-                                                        (Aristotle)**
 							
 My name is jose felipe,I'm from Brazil 🇧🇷 I'm system developer web and mobile applications.
 
