@@ -10,7 +10,7 @@ My name is jose felipe,I'm from Brazil 🇧🇷 I'm system developer web and mob
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:josedesenvolvimento2019@gmail.com)](mailto:josedesenvolvimento2019@gmail.com)
 
 
- 😄 I really like to lear
+ 😄 I really like to learn
  
  
  
